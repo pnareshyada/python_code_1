@@ -1,0 +1,2 @@
+sno,instance_id,ami_id,instance_type,key_name,private_ip_address,public_ip_address,KeyName,VpcId
+1,i-0f6f73caf803a7334,ami-065efef2c739d613b,t2.micro,project1_key,54.227.59.125,172.31.95.127,project1_key,vpc-0e3af6afa7291166b
